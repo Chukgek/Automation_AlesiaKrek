@@ -18,6 +18,7 @@ import static driver.SimpleDriver.getWebDriver;
 
 public class Lecture5_2 {
 
+
     @BeforeTest
     public void preconditions() {
         SimpleDriver simpleDriver = new SimpleDriver();

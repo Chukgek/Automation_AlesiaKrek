@@ -1,6 +1,6 @@
 package Lecture5;
 
-import driver.SimpleDriver;
+import Lecture7.pageObjects.driver.SimpleDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
@@ -12,7 +12,7 @@ import org.testng.annotations.Test;
 
 import java.util.List;
 
-import static driver.SimpleDriver.getWebDriver;
+import static Lecture7.pageObjects.driver.SimpleDriver.getWebDriver;
 
 public class Lecture5_1 {
 

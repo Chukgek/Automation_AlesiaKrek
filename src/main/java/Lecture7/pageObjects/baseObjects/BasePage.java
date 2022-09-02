@@ -1,9 +1,9 @@
-package pageObjects.baseObjects;
+package Lecture7.pageObjects.baseObjects;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-import static driver.SimpleDriver.getWebDriver;
+import static Lecture7.pageObjects.driver.SimpleDriver.getWebDriver;
 
 public abstract class BasePage {
 

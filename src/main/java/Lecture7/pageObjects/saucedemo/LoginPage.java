@@ -1,9 +1,9 @@
-package pageObjects.saucedemo;
+package Lecture7.pageObjects.saucedemo;
 
 import org.openqa.selenium.By;
-import pageObjects.baseObjects.BasePage;
+import Lecture7.pageObjects.baseObjects.BasePage;
 
-import static driver.SimpleDriver.getWebDriver;
+import static Lecture7.pageObjects.driver.SimpleDriver.getWebDriver;
 
 public class LoginPage extends BasePage {
     private final By username = By.id("user-name");

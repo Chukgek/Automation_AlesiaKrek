@@ -3,11 +3,11 @@ package Lecture7;
 import org.testng.Assert;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-import pageObjects.baseObjects.BaseTest;
-import pageObjects.saucedemo.BasketPage;
-import pageObjects.saucedemo.HeaderPage;
-import pageObjects.saucedemo.LoginPage;
-import pageObjects.saucedemo.ProductPage;
+import Lecture7.pageObjects.baseObjects.BaseTest;
+import Lecture7.pageObjects.saucedemo.BasketPage;
+import Lecture7.pageObjects.saucedemo.HeaderPage;
+import Lecture7.pageObjects.saucedemo.LoginPage;
+import Lecture7.pageObjects.saucedemo.ProductPage;
 
 public class Lecture7_2 extends BaseTest {
 

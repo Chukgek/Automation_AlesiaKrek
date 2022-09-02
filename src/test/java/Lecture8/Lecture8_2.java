@@ -1,11 +1,10 @@
 package Lecture8;
-
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import pageObjects.baseObjects.BaseTest;
-import pageObjects.herokuapp.*;
+import Lecture8.pageObjects.baseObjects.BaseTest;
+import Lecture8.pageObjects.herokuapp.*;
 
-import static pageObjects.herokuapp.NavigationItems.*;
+import static Lecture8.pageObjects.herokuapp.NavigationItems.*;
 
 public class Lecture8_2 extends BaseTest {
 

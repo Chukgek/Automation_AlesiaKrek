@@ -1,4 +1,4 @@
-package pageObjects.baseObjects;
+package Lecture7.pageObjects.baseObjects;
 
 import driver.SimpleDriver;
 import org.testng.annotations.AfterTest;

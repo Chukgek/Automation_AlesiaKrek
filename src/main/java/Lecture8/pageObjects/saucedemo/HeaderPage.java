@@ -1,4 +1,5 @@
-package pageObjects.saucedemo;
+package Lecture8.pageObjects.saucedemo;
+
 
 import org.openqa.selenium.By;
 

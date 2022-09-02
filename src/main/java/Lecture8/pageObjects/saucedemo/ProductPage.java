@@ -1,9 +1,9 @@
-package pageObjects.saucedemo;
+package Lecture8.pageObjects.saucedemo;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
-import pageObjects.baseObjects.BasePage;
+import Lecture8.pageObjects.baseObjects.BasePage;
 
 import static driver.SimpleDriver.getWebDriver;
 

@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 import static driver.SimpleDriver.getWebDriver;
 import static org.openqa.selenium.support.locators.RelativeLocator.with;
 
-public class Lecture6 {
+public class Lecture_6 {
 
     @BeforeTest
     public void preconditions() {
@@ -54,5 +54,3 @@ public class Lecture6 {
         return getWebDriver().findElement(By.xpath("//*[@class = 'inventory_item_name' and text() = '" + productName + "']//ancestor::div[@class='cart_item']"));
     }
 }
-
-

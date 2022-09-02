@@ -1,10 +1,10 @@
-package pageObjects.saucedemo;
+package Lecture7.pageObjects.saucedemo;
 
+import Lecture7.pageObjects.baseObjects.BasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-import pageObjects.baseObjects.BasePage;
 
-import static driver.SimpleDriver.getWebDriver;
+import static Lecture7.pageObjects.driver.SimpleDriver.getWebDriver;
 
 public class BasketPage extends BasePage {
 
